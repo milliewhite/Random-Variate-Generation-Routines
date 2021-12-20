@@ -1,3 +1,8 @@
-# Random-Variate-Generation-Routines
-Library  of random  variate  generation routines using Python for discrete and continuous distributions.
-Includes a user guide, complete source code and examples.
+# Random Variate Generation Routines
+* Created a library  of random  variate  generation routines
+    * using Python 
+      * for discrete and continuous distributions.
+* Includes
+    * user guide
+    * complete source code
+    * examples
